@@ -1,4 +1,3 @@
-# MonetLoader-txAdmin
 # Requirements & Dependencies
 
 > External libraries required by the **MonetLoader TXAdmin WebView**
@@ -115,6 +114,4 @@ When reporting an issue, include:
 
 ------------------------------------------------------------------------
 
-**Recommended filename:** `REQUIREMENTS.md`\
-Keep it in the repository root and link to it from `README.md`.
 
